@@ -1,4 +1,4 @@
 ﻿# student-managment-portal
 
 
-![Screenshot](scau.jpeg)
+![Screenshot](scau.JPG)
